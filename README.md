@@ -1,2 +1,5 @@
-# r-CryptoCurrency-Mentions-Dashboard
-A program that scrapes cryptocurrency symbols from top weekly posts on the r/CryptoCurrency subreddit and displays technical info for top 10 coins in a GUI
+# r/CryptoCurrency Mentions Dashboard
+<i>This project was created by Collin Crowder as the final project for Computational Thinking at the University of Iowa in May 2021</i>
+
+### Introduction
+This project was created with the intention to inform the user of both technical and social value of cryptocurrencies. Cyrptocurrencies are currently a controversial store of value as evidenced by mass media, financial institutions and analysts, and policy makers. The reasoning for the negative feedback being primarily that cryptocurencies are "arbitrary" in value and have no foundational reference for any given price. While that claim is certainly debatable, it is outside the scope of this project and doesn't help everyday investors who are interested in determining the value of these currencies themselves. One of the arbitrary aspects of price in cryptocurrency, which is a result from worldwide anonymous supply and demand of cryptocurrency <b>tokens</b>, is social value. For example, when Elon Musk tweets out that he likes or dislikes something, public sentiment changes based on that trending idea and the collective consensus of the token's price raises or falls accordingly. But most times these kinds of events happen, the average person is be
